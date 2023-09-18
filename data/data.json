@@ -1,0 +1,67 @@
+{
+   "3":{
+      "query_intent":{
+         "query_id":3,
+         "query":"asics sandals",
+         "query_intent":"I was looking for a particular footwear that I am planning to gift to my father for the upcoming father's day celebration. I was wondering if I could buy it online since I cannot really find the item in actual stores."
+      },
+      "search_results":[
+         {
+            "title":"actibreeze sandal   slide",
+            "url":"https://www.asics.com/us/en-us/sandals-slides-actibreeze/c/aa90000234/",
+            "snippet":"official site shop sandal   slide asics free standard shipping order 50 oneasic member order 125 custome",
+            "query_id":3,
+            "search_engine":"google"
+         },
+         {
+            "title":"men actibreeze 3d sandal   blackblack - asics",
+            "url":"https://www.asics.com/es/es-es/actibreeze-3d-sandal/p/1013A130-001.html",
+            "snippet":"actibreeze 3d sandal help recovery run form paremetrically design construction provide zone comfort",
+            "query_id":3,
+            "search_engine":"google"
+         },
+         {
+            "title":"sandal",
+            "url":"https://www.asics.com/my/en-my/men-shoes-sandals",
+            "snippet":"actibreeze 3d sandal 2 unisex sandal b rm 34900 quick view detail new arrival actibreeze 3d sandal 2 unisex sandal b rm 34900",
+            "query_id":3,
+            "search_engine":"google"
+         },
+         {
+            "title":"men actibreeze 3d sandal 2   diva pinkblack",
+            "url":"https://www.asics.com/es/es-es/actibreeze-3d-sandal-2/p/1013A133-700.html",
+            "snippet":"actibreeze 3d sandal 2 calzado unisex   8000 promotion -20 en ropa al comprar   image 1 7 unisex diva pinkblack actibreeze 3d sandal 2 ms rpido \\xa0",
+            "query_id":3,
+            "search_engine":"google"
+         },
+         {
+            "title":"unisex actibreeze 3d sandal   blackblack",
+            "url":"https://www.asics.com/us/en-us/actibreeze-3d-sandal/p/ANA_1013A130-001.html",
+            "snippet":"actibreeze 3d sandal help recovery run form paremetrically design construction provide zone comfort",
+            "query_id":3,
+            "search_engine":"google"
+         },
+         {
+            "title":"womens sandal   slide 2",
+            "url":"https://www.asics.com/us/en-us/womens-sandals-slides/c/aa20210000/",
+            "snippet":"official site shop women sandal   slide asics free standard shipping order 50 oneasic member order 125",
+            "query_id":3,
+            "search_engine":"google"
+         },
+         {
+            "title":"sandal slide 4",
+            "url":"https://www.asics.com/au/en-au/sandals-and-slides/c/au70242000/",
+            "snippet":"asics australia official   sandal slide free express shipping oneasic member",
+            "query_id":3,
+            "search_engine":"google"
+         },
+         {
+            "title":"sandal",
+            "url":"https://www.asics.com/sg/en-sg/men-shoes-sandals",
+            "snippet":"stripe design feature side asic shoe registered trademark asics corporation",
+            "query_id":3,
+            "search_engine":"google"
+         }
+      ]
+   }
+}
